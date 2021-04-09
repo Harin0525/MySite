@@ -1,0 +1,48 @@
+{
+  "name": "latihanbuatartikel",
+  "version": "1.0.0",
+  "description": "Belajar Membuat Website Menggunakan Expressjs yang terkoneksi dengan database Mongoodb",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "belajar",
+    "Expressjs",
+    "Express",
+    "Expressjs dan mongodb",
+    "Mongoodb",
+    "mongodb",
+    "mongoo",
+    "indonesia",
+    "cr4r",
+    "Coder's Family",
+    "Coders",
+    "coders family",
+    "coder family",
+    "coder",
+    "belajar",
+    "ngoding",
+    "belajar express",
+    "belajar expressjs",
+    "belajar mongodb",
+    "belajar mongoodb",
+    "study",
+    "pemula",
+    "gratis",
+    "source code"
+  ],
+  "author": "cr4r",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "dompurify": "^2.2.6",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "http-msgs": "^1.0.9",
+    "jsdom": "^16.4.0",
+    "marked": "^2.0.0",
+    "method-override": "^3.0.0",
+    "mongoose": "^5.11.8",
+    "slugify": "^1.4.6"
+  }
+}
